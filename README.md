@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ALLAMAOUATIF/ALLAM_AOUATIF_PIPELINES/_apis/build/status/aouatif2000.ContosoAir?branchName=master)](https://dev.azure.com/ALLAMAOUATIF/ALLAM_AOUATIF_PIPELINES/_build/latest?definitionId=3&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
